@@ -1,0 +1,12 @@
+name: Facebook_DA
+title: Facebook_DA
+username:
+account: team10mod1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2820524
+bundleId: 3635514
+url: https://team10mod1.shinyapps.io/Facebook_DA/
+when: 1600265400.25068
+asMultiple: FALSE
+asStatic: FALSE
